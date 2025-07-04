@@ -1,0 +1,36 @@
+autodocstring
+c/c++
+c/c++ extention pack
+c/c++ themes
+cMake
+cMake tools
+code Runner
+Debugger for java
+dev containers
+django
+extention pack for java
+gradle for java
+intellicode
+intellicode api usage examples v0.2.9
+jinja
+jupyter
+jupyter cell tags
+jupyter keymap
+jupyter notebook renderers
+jupyter slide show
+language support for java by red hat
+live server
+maven for java
+microsoft edge tools for vs code
+project manager for java
+pylance
+python
+python debugger
+python envirenment manager
+python extention pack
+python indent
+test runner for java
+---------------------------------
+gitbash git-lfs-windowa-v3.6.1
+github desktop
+git gui git-2.32.0.2-64-bit
